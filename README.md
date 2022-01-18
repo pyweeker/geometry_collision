@@ -10,7 +10,7 @@ cargo run --example geometry_collision
 
 TODO : 
 
-+filter query toavoid code duplication , i was not able to work with an enum , so i worked with With<ExampleShapeA> With<ExampleShapeB> and With<ExampleShapeC>.
++filter query to avoid code duplication , i was not able to work with an enum , so i worked with With<ExampleShapeA> With<ExampleShapeB> and With<ExampleShapeC>.
 
 + fix Z-depth ,
   
