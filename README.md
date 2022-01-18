@@ -21,6 +21,8 @@ TODO :
 + dark triangle could be venimous and make explode big shapes.
 
 +make bouncing shapes or sticky shapes on walls.
-  
 
+- i failed to use bevy-inspector-egui  for introspection
+- i failed to use this hack   https://github.com/bevyengine/bevy/issues/1467
+  
 ![gif](geometry_collision.gif)
