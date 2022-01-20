@@ -8,6 +8,11 @@ place geometry_collision.rs file inside folder bevy_prototype_lyon/examples
 
 cargo run --example geometry_collision
 
+
+Thursday 20 january : fixing it thanks to community help ;-)
+========
+
+
 TODO : 
 
 +filter query to avoid code duplication , i was not able to work with an enum , so i worked with With<ExampleShapeA> With<ExampleShapeB> and With<ExampleShapeC>.
