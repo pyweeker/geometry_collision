@@ -7,6 +7,7 @@ place geometry_collision.rs file inside folder bevy_prototype_lyon/examples
 
 
 cargo run --example geometry_collision
+cargo run --example geocol5
 
 
 Thursday 20 january : fixing it thanks to community help ;-)
