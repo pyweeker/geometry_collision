@@ -3,7 +3,7 @@
 
 download  bevy_prototype_lyon  available here:   https://github.com/Nilirad/bevy_prototype_lyon
 
-place geometry_collision.rs file inside folder bevy_prototype_lyon/examples
+place geocol8.rs file inside folder bevy_prototype_lyon/examples
 
 
 
